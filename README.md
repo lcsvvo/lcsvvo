@@ -1,4 +1,3 @@
-## Hi there 👋
 # 김지우 (Jiwoo Kim)
 
 ### Data Analytics Student
