@@ -6,7 +6,8 @@ Big Data Management Major at Gachon University
 
 Double Major
 - Department of Applied Statistics
-- Department of Healthcare Management
+- Department of Medical Industry Management
+
 ---
 
 ## About Me
@@ -15,10 +16,9 @@ Double Major
 
 관심 분야
 - Healthcare Analytics
-- Panel Data Analysis
+- Big Data Analysis
 - Statistical Modeling
 - NLP
-- ESG Analytics
 
 ---
 
@@ -27,7 +27,7 @@ Double Major
 **Gachon University**
 - Big Data Management (Major)
 - Applied Statistics (Double Major)
-- Healthcare Management (Double Major)
+- Medical Industry Management (Double Major)
 
 ---
 
@@ -58,8 +58,6 @@ Double Major
 
 ### Movie Review Sentiment Analysis
 - Stacking Ensemble
-- MCC 0.7522
-- Rank 9/19
 
 ---
 
@@ -68,7 +66,6 @@ Double Major
 - Healthcare Analytics
 - Longitudinal Data Analysis
 - Machine Learning
-- Business Analytics
 
 ---
 
