@@ -42,6 +42,14 @@ Double Major
 
 ---
 
+## Certifications
+
+- ADsP (Advanced Data Analytics Semi-Professional)
+- SQLD (SQL Developer)
+- Korean Practical Writing Test Level 2
+
+---
+
 ## Featured Projects
 
 ### KYHPS Longitudinal Study
