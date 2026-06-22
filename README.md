@@ -18,7 +18,7 @@ Double Major
 - Big Data Analysis
 - Statistical Modeling
 - NLP
-- 
+
 ---
 
 ## Skills
