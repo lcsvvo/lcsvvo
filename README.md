@@ -1,7 +1,7 @@
 # 김지우 (Jiwoo Kim)
 
 ### Data Analytics Student
-Big Data Management Major at Gachon University
+Big Data Management Major
 
 Double Major
 - Department of Applied Statistics
