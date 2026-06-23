@@ -1,72 +1,55 @@
 # 김지우 (Jiwoo Kim)
 
-### Data Analytics Student
-Big Data Management Major
+### Healthcare Data Analytics | NLP | Statistical Modeling
 
-Double Major
-- Department of Applied Statistics
-- Department of Medical Industry Management
+빅데이터경영 전공
+
+복수전공
+- 응용통계학
+- 의료산업경영학
 
 ---
 
 ## About Me
 
-데이터 분석을 통해 현상을 설명하고 의사결정을 지원하는 연구에 관심이 있습니다.
+보건의료 및 사회 현상을 데이터로 분석하는 데 관심이 있습니다.
 
 관심 분야
 - Healthcare Analytics
-- Big Data Analysis
-- Statistical Modeling
+- Longitudinal Data Analysis
 - NLP
-
----
-
-## Skills
-
-- Python
-- SQL
 - Machine Learning
-- Statistical Analysis
-- Text Mining
-- Panel Data Analysis
-
----
-
-## Certifications
-
-- ADsP (Advanced Data Analytics Semi-Professional)
-- SQLD (SQL Developer)
-- Korean Practical Writing Test Level 2
 
 ---
 
 ## Featured Projects
 
 ### KYHPS Longitudinal Study
-- 2019–2023 Korean Youth Health Panel Survey
-- Mundlak Model (Within-Between Decomposition)
-- Longitudinal Mental Health Analysis
-- 3,986 adolescents tracked over 5 years
+- 청소년 건강행태 패널데이터 분석
+- Mundlak Model 기반 종단분석
 
 ### ESG-DART Project
-- OpenDART API
-- TF-IDF & FastText
-- ESG Disclosure Analysis
-- Regression Analysis
+- 기업 공시자료 ESG 텍스트마이닝
+- OpenDART · TF-IDF · FastText
 
 ### Movie Review Sentiment Analysis
+- 영화 리뷰 감성분석
 - Stacking Ensemble
 
 ---
 
-## Research Interests
+## Skills
 
-- Healthcare Analytics
-- Longitudinal Data Analysis
-- Machine Learning
+Python · SQL · Machine Learning · Statistical Analysis · Text Mining
 
 ---
 
-## Contact
+## Certifications
+
+- ADsP
+- SQLD
+- 한국실용글쓰기 2급
+
+---
 
 📧 jiwooo411@naver.com
