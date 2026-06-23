@@ -2,7 +2,7 @@
 
 ### Healthcare Data Analytics | NLP | Statistical Modeling
 
-빅데이터경영 전공
+빅데이터경영전공
 
 복수전공
 - 응용통계학
