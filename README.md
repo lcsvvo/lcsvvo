@@ -2,13 +2,16 @@
 
 Healthcare Data Analytics | NLP | Statistical Modeling
 
-가천대학교 금융빅데이터학부
-빅데이터경영전공
+Gachon University
 
-복수전공
+School of Financial Big Data
 
-* 응용통계학
-* 의료산업경영학
+Major
+- Big Data Management
+
+Double Major
+- Applied Statistics
+- Healthcare Industry Management
 
 ---
 
