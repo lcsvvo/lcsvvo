@@ -2,9 +2,7 @@
 
 Healthcare Data Analytics | NLP | Statistical Modeling
 
-Gachon University
-
-School of Financial Big Data
+School of Financial Big Data in Gachon University
 
 Major
 - Big Data Management
