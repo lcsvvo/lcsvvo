@@ -9,7 +9,7 @@ Major
 
 Double Major
 - Applied Statistics
-- Healthcare Industry Management
+- Medical Industry Management
 
 ---
 
