@@ -1,6 +1,6 @@
 # Jiwoo Kim
 
-📊 Data Analyst | NLP | Statistical Modeling
+📊 Data Analyst | NLP & Statistical Modeling
 
 ---
 
