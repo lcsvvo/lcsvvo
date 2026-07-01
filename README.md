@@ -1,21 +1,36 @@
 # Jiwoo Kim
 
-📊 Healthcare Data Analytics | NLP | Statistical Modeling
+📊 Healthcare Data Analyst | NLP & Longitudinal Data Analysis
 
-🎓 School of Financial Big Data in Gachon University
+---
 
-📚 Major
-- Big Data Management
+## Education
 
-📚 Double Major
-- Applied Statistics
-- Medical Industry Management
+🎓 Gachon University
+
+- B.S. in Big Data Management
+- Double Major in Applied Statistics
+- Double Major in Medical Industry Management
 
 ---
 
 ## About
 
 보건의료 및 사회 분야의 종단 데이터와 텍스트 데이터 분석
+
+---
+
+## Experience
+
+### FINDSLAB 학부연구생
+2026.07 ~ 2026.08
+
+- 금융 데이터 기반 실증 연구 수행
+- KRX, ECOS, DART 데이터를 활용한 데이터 수집 및 분석
+- 회귀분석을 활용한 산업별 금리 민감도 분석
+
+연구실 프로필
+https://findslab.github.io/site/members/detail/kjw1-undergrad
 
 ---
 
