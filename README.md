@@ -8,7 +8,7 @@
 
 🎓 Gachon University
 
-- B.S. in Big Data Management
+- B.S. in Big Data Business Management
 - Double Major in Applied Statistics, Medical Industry Management
 
 ---
