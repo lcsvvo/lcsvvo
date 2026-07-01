@@ -23,12 +23,14 @@
 
 ## Experience
 
-### FINDSLAB 학부연구생 [![FINDSLAB](https://img.shields.io/badge/FINDSLAB-Undergraduate%20Researcher-blue)](https://findslab.github.io/site/members/detail/kjw1-undergrad)
+### FINDSLAB 학부연구생
+[![FINDSLAB](https://img.shields.io/badge/FINDSLAB-Undergraduate%20Researcher-blue)](https://findslab.github.io/site/members/detail/kjw1-undergrad)
+
 2026.07 ~ 2026.08
 
 - 금융 데이터 기반 실증 연구 수행
-- KRX, ECOS, DART 데이터를 활용한 데이터 수집 및 분석
-- 회귀분석을 활용한 산업별 금리 민감도 분석
+- KRX, ECOS, DART 데이터를 활용한 금융 데이터 분석
+- 회귀분석 기반 산업별 금리 민감도 추정
 
 ---
 
