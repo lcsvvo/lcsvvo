@@ -82,4 +82,4 @@
 
 ## Contact
 
-- Email: jiwooo411@naver.com
+- Email: lcsvvo@gmail.com
