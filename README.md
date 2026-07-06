@@ -33,7 +33,7 @@
 
 ### BOAZ 27기 시각화 부문
 
-[![BOAZ](https://img.shields.io/badge/BOAZ-27th-yellow)](https://www.bigdataboaz.com/)
+[![BOAZ](https://img.shields.io/badge/BOAZ-27th%20Visualization-FFECA6?labelColor=5A5A5A)](https://www.bigdataboaz.com/)
 
 2026.07 ~
 
