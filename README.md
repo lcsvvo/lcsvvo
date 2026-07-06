@@ -31,15 +31,15 @@
 - KRX, ECOS, DART 데이터를 활용한 금융 데이터 분석
 - 회귀분석 기반 산업별 금리 민감도 추정
 
-### BOAZ 27기 데이터 시각화
+### BOAZ 27기 시각화 부문
 
-[![BOAZ](https://img.shields.io/badge/BOAZ-27th%20Data%20Visualization-blue)](https://www.bigdataboaz.com/)
+[![BOAZ](https://img.shields.io/badge/BOAZ-27th-yellow)](https://www.bigdataboaz.com/)
 
 2026.07 ~
 
 - 데이터 시각화 커리큘럼 참여
 - Tableau, QGIS, Figma 기반 데이터 시각화 학습
-- 팀 프로젝트 기반 데이터 시각화 및 대시보드 제작
+- 팀 프로젝트 기반 대시보드 설계 및 시각화
 
 ---
 
