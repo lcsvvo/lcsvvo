@@ -44,29 +44,29 @@
 
 ## Featured Projects
 
-### [KYHPS Anxiety Longitudinal]
+### [KYHPS Anxiety Longitudinal](Private)
 
 청소년 스마트폰 사용과 불안의 개인 내·개인 간 효과 분석
 
-`Python` `Pandas` `Statsmodels`
+`Python` `Pandas` `Linearmodels` `Statsmodels` 
 
 ### [ESG DART Text Mining](https://github.com/lcsvvo/ESG-DART-Text-Mining)
 
 기업 공시자료 기반 ESG 텍스트 마이닝
 
-`Python` `scikit-learn` `Kiwi` `OpenDART API`
+`Python` `Kiwi` `TF-IDF` `FastText`
 
 ### [Korean Sentiment Classification](https://github.com/lcsvvo/Korean-Sentiment-Generalization)
 
 한국어 영화 리뷰 감성분석 및 일반화 성능 평가
 
-`Python` `scikit-learn` `Sentence-Transformers` `PyTorch`
+`Python` `Sentence-Transformers` `scikit-learn`  `PyTorch`
 
 ### [Real Estate Price Prediction](https://github.com/lcsvvo/Real-Estate-Price-Prediction)
 
 주택 가격 예측 모델 검증 및 성능 개선
 
-`Python` `Pandas` `scikit-learn`
+`Python` `Elastic Net` `scikit-learn`
 
 ---
 
@@ -75,7 +75,7 @@
 | Area | Tools |
 |------|-------|
 | Programming | Python, SQL |
-| Data Analysis | Pandas, Statsmodels |
+| Data Analysis | Pandas, NumPy, Statsmodels |
 | Machine Learning | scikit-learn, PyTorch |
 | NLP | Kiwi, TF-IDF, FastText, Sentence-Transformers |
 
