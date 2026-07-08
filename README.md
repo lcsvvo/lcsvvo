@@ -44,25 +44,25 @@
 
 ## Featured Projects
 
-### [KYHPS Longitudinal Study](https://github.com/jiwooo411/kyhps-anxiety-dynamics)
+### [KYHPS Anxiety Longitudinal]
 
 청소년 스마트폰 사용과 불안의 개인 내·개인 간 효과 분석
 
 `Python` `Pandas` `Statsmodels`
 
-### [ESG-DART](https://github.com/jiwooo411/ESG_DART_Project)
+### [ESG DART Text Mining](https://github.com/lcsvvo/ESG-DART-Text-Mining)
 
 기업 공시자료 기반 ESG 텍스트 마이닝
 
 `Python` `scikit-learn` `Kiwi` `OpenDART API`
 
-### [Korean Sentiment Classification](https://github.com/jiwooo411/Korean_Sentiment_Generalization)
+### [Korean Sentiment Classification](https://github.com/lcsvvo/Korean-Sentiment-Generalization)
 
 한국어 영화 리뷰 감성분석 및 일반화 성능 평가
 
 `Python` `scikit-learn` `Sentence-Transformers` `PyTorch`
 
-### [Real Estate Price Prediction](https://github.com/jiwooo411/Real_Estate_Price_Prediction)
+### [Real Estate Price Prediction](https://github.com/lcsvvo/Real-Estate-Price-Prediction)
 
 주택 가격 예측 모델 검증 및 성능 개선
 
