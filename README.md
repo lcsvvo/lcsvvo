@@ -25,7 +25,7 @@
 ### FINDSLAB 학부연구생
 [![FINDSLAB](https://img.shields.io/badge/FINDSLAB-Undergraduate%20Researcher-blue)](https://findslab.github.io/site/members/detail/kjw1-undergrad)
 
-2026.07 ~ 2026.08
+2026.07 - Present
 
 - 금융 데이터 기반 실증 연구 수행
 - KRX, ECOS, DART 데이터를 활용한 금융 데이터 분석
@@ -35,7 +35,7 @@
 
 [![BOAZ](https://img.shields.io/badge/BOAZ-27th%20Visualization-FFECA6?labelColor=5A5A5A)](https://www.bigdataboaz.com/)
 
-2026.07 ~
+2026.07 - Present
 
 - 데이터 시각화 커리큘럼 참여
 - Tableau, QGIS, Figma 기반 데이터 시각화 학습
