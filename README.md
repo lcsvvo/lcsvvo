@@ -44,7 +44,7 @@
 
 ## Featured Projects
 
-### [KYHPS Anxiety Longitudinal](Private)
+### [KYHPS Anxiety Longitudinal](https://github.com/lcsvvo/KYHPS-Anxiety-Longitudinal)
 
 청소년 스마트폰 사용과 불안의 개인 내·개인 간 효과 분석
 
