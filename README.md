@@ -56,12 +56,6 @@
 
 `Python` `Sentence-Transformers` `scikit-learn`  `PyTorch`
 
-### [Real Estate Price Prediction](https://github.com/lcsvvo/Real-Estate-Price-Prediction)
-
-주택 가격 예측 모델 검증 및 성능 개선
-
-`Python` `Elastic Net` `scikit-learn`
-
 ---
 
 ## Skills
