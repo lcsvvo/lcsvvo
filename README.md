@@ -53,12 +53,6 @@ Statistics · Machine Learning · Data Visualization
 
 `Python` `Kiwi` `TF-IDF` `FastText`
 
-### [Korean Sentiment Classification](https://github.com/lcsvvo/Korean-Sentiment-Generalization)
-
-한국어 영화 리뷰 감성분석 및 일반화 성능 평가
-
-`Python` `Sentence-Transformers` `scikit-learn` `PyTorch`
-
 ---
 
 ## Skills
