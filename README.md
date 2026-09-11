@@ -67,13 +67,6 @@ Statistics · Machine Learning · Data Visualization
 
 ---
 
-## Certifications
-
-- **취득:** ADsP · SQLD · 한국실용글쓰기 준2급
-- **필기 합격:** 컴퓨터활용능력 1급 · 사회조사분석사 2급
-
----
-
 ## Contact
 
 - Email: [lcsvvo@gmail.com](mailto:lcsvvo@gmail.com)
