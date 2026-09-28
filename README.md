@@ -3,8 +3,6 @@
 Aspiring Healthcare Data Analyst<br>
 Statistics · Machine Learning · Data Visualization
 
-의료·헬스케어 데이터를 활용해 의미 있는 문제를 해결하는 데이터 분석가를 목표로 하고 있습니다.
-
 ---
 
 ## Education
@@ -21,7 +19,7 @@ Statistics · Machine Learning · Data Visualization
 ### FINDSLAB 학부연구생
 [![FINDSLAB](https://img.shields.io/badge/FINDSLAB-Undergraduate%20Researcher-blue)](https://findslab.github.io/site/members/detail/kjw1-undergrad)
 
-2026.07 – Present
+2026.06 – 2026.08
 
 - 금융 데이터 기반 실증 연구 수행
 - KRX, ECOS, DART 데이터를 활용한 금융 데이터 분석
