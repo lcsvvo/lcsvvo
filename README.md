@@ -34,7 +34,6 @@ Statistics, Machine Learning, Data Visualization
 - 데이터 시각화와 분석 커리큘럼 병행
 - 딥러닝, 자연어처리, 컴퓨터비전 및 LLM 기반 생성형 AI 학습
 - Tableau, QGIS, Figma를 활용한 시각화 실습
-- 팀 프로젝트에서 데이터 분석 및 대시보드 설계 수행
 
 ---
 
