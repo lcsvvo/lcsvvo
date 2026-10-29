@@ -65,7 +65,7 @@ Statistics, Machine Learning, Data Visualization
 
 공공데이터 기반 창원국가산단 산업, 고용 진단 및 정책, 지원 연계 시스템
 
-- 업종별 생산, 고용 분석과 진단 결과를 Streamlit 대시보드로 구현, 배포
+- 업종별 생산 및 고용 분석과 진단 결과를 Streamlit 대시보드로 구현, 배포
 - 공식 문서 기반 RAG와 Gemini를 활용한 정책 근거 검색 및 설명
 
 `Python` `pandas` `Streamlit` `RAG` `Gemini API`
