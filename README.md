@@ -1,7 +1,7 @@
 # Jiwoo Kim
 
 Aspiring Healthcare Data Analyst<br>
-Statistics · Machine Learning · Data Visualization
+Statistics, Machine Learning, Data Visualization
 
 ---
 
@@ -25,14 +25,14 @@ Statistics · Machine Learning · Data Visualization
 - KRX, ECOS, DART 데이터를 활용한 금융 데이터 분석
 - 회귀분석 기반 산업별 금리 민감도 추정
 
-### BOAZ 27기 시각화·분석 부문
+### BOAZ 27기 시각화, 분석 부문
 
 [![BOAZ](https://img.shields.io/badge/BOAZ-27th%20Visualization%20%26%20Analysis-FFECA6?labelColor=5A5A5A)](https://www.bigdataboaz.com/)
 
 2026.07 – Present
 
 - 데이터 시각화 활동과 [분석 커리큘럼](https://www.bigdataboaz.com/curriculum) 학습 병행
-- 딥러닝·자연어처리·컴퓨터비전 및 생성형 AI·LLM 학습
+- 딥러닝, 자연어처리, 컴퓨터비전 및 생성형 AI, LLM 학습
 - Tableau, QGIS, Figma 기반 데이터 시각화 학습
 - 팀 프로젝트 기반 데이터 분석, 대시보드 설계 및 시각화
 
@@ -51,7 +51,7 @@ Statistics · Machine Learning · Data Visualization
 
 ### [KYHPS Anxiety Longitudinal](https://github.com/lcsvvo/KYHPS-Anxiety-Longitudinal)
 
-청소년 스마트폰 사용과 불안의 개인 내·개인 간 효과 분석
+청소년 스마트폰 사용과 불안의 개인 내, 개인 간 효과 분석
 
 `Python` `pandas` `linearmodels` `statsmodels`
 
@@ -63,9 +63,9 @@ Statistics · Machine Learning · Data Visualization
 
 ### [Changwon Industry & Employment Monitor](https://github.com/lcsvvo/Changwon-Industry-Employment-Monitor)
 
-공공데이터 기반 창원국가산단 산업·고용 진단 및 정책·지원 연계 시스템
+공공데이터 기반 창원국가산단 산업, 고용 진단 및 정책, 지원 연계 시스템
 
-- 업종별 생산·고용 분석과 진단 결과를 Streamlit 대시보드로 구현·배포
+- 업종별 생산, 고용 분석과 진단 결과를 Streamlit 대시보드로 구현, 배포
 - 공식 문서 기반 RAG와 Gemini를 활용한 정책 근거 검색 및 설명
 
 `Python` `pandas` `Streamlit` `RAG` `Gemini API`
