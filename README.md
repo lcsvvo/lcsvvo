@@ -31,9 +31,9 @@ Statistics · Machine Learning · Data Visualization
 
 2026.07 – Present
 
-- 데이터 시각화 커리큘럼 참여
+- 데이터 시각화 커리큘럼 참여 및 데이터 분석 학습 병행
 - Tableau, QGIS, Figma 기반 데이터 시각화 학습
-- 팀 프로젝트 기반 대시보드 설계 및 시각화
+- 팀 프로젝트 기반 데이터 분석, 대시보드 설계 및 시각화
 
 ---
 
