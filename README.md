@@ -77,10 +77,12 @@ Statistics, Machine Learning, Data Visualization
 | Area | Tools |
 |------|-------|
 | Programming | Python, SQL |
-| Data Analysis | pandas, NumPy, statsmodels, linearmodels |
-| Machine Learning | scikit-learn, PyTorch |
+| Data Analysis | pandas, NumPy, SciPy |
+| Statistical Modeling | statsmodels, linearmodels |
+| Machine Learning & Deep Learning | scikit-learn, PyTorch, TensorFlow/Keras |
 | NLP | Kiwi, TF-IDF, FastText, Sentence-Transformers |
-| Data Visualization | Tableau, QGIS, Figma |
+| Computer Vision | OpenCV, MediaPipe |
+| Visualization & Apps | Matplotlib, Seaborn, Tableau, QGIS, Figma, Streamlit |
 
 ---
 
