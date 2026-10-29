@@ -31,7 +31,8 @@ Statistics · Machine Learning · Data Visualization
 
 2026.07 – Present
 
-- 데이터 시각화 커리큘럼 참여 및 데이터 분석 학습 병행
+- 데이터 시각화 활동과 [분석 커리큘럼](https://www.bigdataboaz.com/curriculum) 학습 병행
+- 딥러닝·자연어처리·컴퓨터비전 및 생성형 AI·LLM 학습
 - Tableau, QGIS, Figma 기반 데이터 시각화 학습
 - 팀 프로젝트 기반 데이터 분석, 대시보드 설계 및 시각화
 
