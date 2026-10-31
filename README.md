@@ -49,19 +49,19 @@ Statistics, Machine Learning, Data Visualization
 
 ### [KYHPS Anxiety Longitudinal](https://github.com/lcsvvo/KYHPS-Anxiety-Longitudinal)
 
-청소년 스마트폰 사용과 불안의 개인 내, 개인 간 효과 분석
+청소년의 스마트폰 이용, 수면, 스트레스와 불안의 관계를 개인 간 차이와 개인 내 변화로 나누어 분석
 
 `Python` `pandas` `linearmodels` `statsmodels`
 
-### [ESG DART Text Mining](https://github.com/lcsvvo/ESG-DART-Text-Mining)
+### [FINDSLAB Research Intern](https://github.com/lcsvvo/FINDSLAB-Research-Intern)
 
-기업 공시자료 기반 ESG 텍스트 마이닝
+시장수익률을 통제한 산업별 금리노출의 차이 분석. 2026 한국경영과학회 추계학술대회 **장려상(경쟁 부문)** 수상
 
-`Python` `Kiwi` `TF-IDF` `FastText`
+`Python` `pandas` `statsmodels` `SciPy`
 
 ### [Changwon Industry & Employment Monitor](https://github.com/lcsvvo/Changwon-Industry-Employment-Monitor)
 
-공공데이터 기반 창원국가산단 생산 및 고용 분석과 정책 지원 대시보드
+창원국가산단 생산, 고용 변화 분석과 업종별 점검, 지원 검토를 연결하는 대시보드
 
 `Python` `pandas` `Streamlit` `RAG` `Gemini API`
 
