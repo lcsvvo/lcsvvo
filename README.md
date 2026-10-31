@@ -55,7 +55,7 @@ Statistics, Machine Learning, Data Visualization
 
 ### [FINDSLAB Research Intern](https://github.com/lcsvvo/FINDSLAB-Research-Intern)
 
-시장수익률을 통제한 산업별 금리노출의 차이 분석. 2026 한국경영과학회 추계학술대회 **장려상(경쟁 부문)** 수상
+시장수익률을 통제한 산업별 금리노출의 차이 분석
 
 `Python` `pandas` `statsmodels` `SciPy`
 
