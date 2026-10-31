@@ -42,7 +42,6 @@ Statistics, Machine Learning, Data Visualization
 ### 2026 한국경영과학회 추계학술대회 — 장려상 (경쟁 부문)
 
 - **수상 논문:** 시장수익률을 통제한 산업별 금리노출의 이질성에 관한 연구
-- FINDSLAB 학부연구생 공동연구
 
 ---
 
