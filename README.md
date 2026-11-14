@@ -58,17 +58,17 @@ Undergraduate Student | Medical AI · Trustworthy AI · Medical LLMs
 
 `Python` `pandas` `linearmodels` `statsmodels`
 
-### [FINDSLAB Research Intern](https://github.com/lcsvvo/FINDSLAB-Research-Intern)
+### Search Result Quality AI · In Progress
 
-시장수익률을 통제한 산업별 금리노출의 차이 분석
+검색어와 검색 결과의 관련성을 평가해, 관련성이 낮은 결과를 구분하여 보여주는 AI 기반 검색 보조 서비스 연구
 
-`Python` `pandas` `statsmodels` `SciPy`
+`Python` `NLP` `Information Retrieval`
 
-### [Changwon Industry & Employment Monitor](https://github.com/lcsvvo/Changwon-Industry-Employment-Monitor)
+### Isolated Youth Welfare Access AI · In Progress
 
-창원국가산단 생산, 고용 변화 분석과 업종별 점검, 지원 검토를 연결하는 대시보드
+고립·은둔 청년의 복지서비스 접근 장벽과 정보 공백을 분석하고, 개인 상황에 맞는 서비스 탐색 지원 시스템 설계
 
-`Python` `pandas` `Streamlit` `RAG` `Gemini API`
+`Python` `Data Analysis` `Human Annotation`
 
 ---
 
