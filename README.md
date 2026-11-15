@@ -65,13 +65,13 @@ Undergraduate Student | Medical AI · Trustworthy AI · Medical LLMs
 
 ### Search Result Quality AI · In Progress
 
-검색어와 검색 결과의 관련성을 평가해, 관련성이 낮은 결과를 구분하여 보여주는 AI 기반 검색 보조 서비스 연구
+AI 기반 검색 보조 서비스 연구
 
 `Python` `NLP` `Information Retrieval`
 
 ### Isolated Youth Welfare Access AI · In Progress
 
-고립·은둔 청년의 복지서비스 접근 장벽과 정보 공백을 분석하고, 개인 상황에 맞는 서비스 탐색 지원 시스템 설계
+개인 맞춤형 서비스 시스템 설계
 
 `Python` `Data Analysis` `Human Annotation`
 
