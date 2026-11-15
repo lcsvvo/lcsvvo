@@ -40,6 +40,11 @@ Undergraduate Student | Medical AI · Trustworthy AI · Medical LLMs
 - 딥러닝, 자연어처리, 컴퓨터비전 및 LLM 기반 생성형 AI 학습
 - Tableau, QGIS, Figma를 활용한 시각화 실습
 
+### 학생회
+
+- **제2대 빅데이터경영학과 학생회 Wa:y 학생회장** (2025.01 – 2025.12)
+- **제1대 빅데이터경영학과 학생회 ALL 총무팀장** (2024.03 – 2024.12)
+
 ---
 
 ## Awards
