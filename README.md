@@ -1,12 +1,11 @@
 # Jiwoo Kim
 
-Undergraduate Student | Medical AI · Trustworthy AI · Medical LLMs
+Undergraduate Student | Medical AI · Trustworthy AI
 
 ## Research Interests
 
-- **Medical AI** — 의료·임상 데이터 분석과 AI의 의료 현장 적용
+- **Medical AI** — 의료, 임상 데이터 분석과 AI의 의료 현장 적용
 - **Trustworthy AI** — AI 예측의 신뢰성, 설명 가능성(XAI), 편향 및 안전성 검증
-- **Medical LLMs** — 의료 분야 LLM의 활용과 응답의 정확성 및 임상적 타당성 평가
 
 ---
 
