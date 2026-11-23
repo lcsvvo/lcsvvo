@@ -71,10 +71,9 @@ AI 기반 검색 보조 서비스 연구
 
 ### [Isolated Youth Welfare Access AI](https://github.com/lcsvvo/Isolated-Youth-Welfare-Access-AI)
 
+고립·은둔 청년의 복지 접근성 분석과 일상어 기반 비대면 복지서비스 추천 모델 「반 걸음」 개발
 
-개인 맞춤형 서비스 시스템 설계
-
-`Python` `Data Analysis` `Human Annotation`
+`Python` `Data Analysis` `NLP` `Information Retrieval` `Streamlit`
 
 ---
 
