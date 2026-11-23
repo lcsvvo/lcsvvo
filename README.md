@@ -62,17 +62,17 @@ Undergraduate Student | Medical AI · Trustworthy AI
 
 `Python` `pandas` `linearmodels` `statsmodels`
 
-### Search Result Quality AI · In Progress
-
-AI 기반 검색 보조 서비스 연구
-
-`Python` `NLP` `Information Retrieval`
-
 ### [Isolated Youth Welfare Access AI](https://github.com/lcsvvo/Isolated-Youth-Welfare-Access-AI)
 
 고립·은둔 청년의 복지 접근성 분석과 일상어 기반 비대면 복지서비스 추천 모델 「반 걸음」 개발
 
 `Python` `Data Analysis` `NLP` `Information Retrieval` `Streamlit`
+
+### Search Result Quality AI · In Progress
+
+AI 기반 검색 보조 서비스 연구
+
+`Python` `NLP` `Information Retrieval`
 
 ---
 
