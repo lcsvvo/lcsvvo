@@ -69,7 +69,8 @@ AI 기반 검색 보조 서비스 연구
 
 `Python` `NLP` `Information Retrieval`
 
-### Isolated Youth Welfare Access AI · In Progress
+### [Isolated Youth Welfare Access AI](https://github.com/lcsvvo/Isolated-Youth-Welfare-Access-AI)
+
 
 개인 맞춤형 서비스 시스템 설계
 
