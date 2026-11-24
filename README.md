@@ -25,6 +25,8 @@ Undergraduate Student | Medical AI · Trustworthy AI
 
 2026.11 ~
 
+- 대규모 언어 모델(LLM) 기반 자연어처리 연구
+
 ### FINDS LAB 학부연구생
 [![FINDSLAB](https://img.shields.io/badge/FINDSLAB-Undergraduate%20Researcher-blue)](https://findslab.github.io/site/members/detail/kjw1-undergrad)
 
