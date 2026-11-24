@@ -20,7 +20,12 @@ Undergraduate Student | Medical AI · Trustworthy AI
 
 ## Experience
 
-### FINDSLAB 학부연구생
+### DAC LAB 학부연구생
+(https://dac.gachon.ac.kr/)
+
+2026.11 ~
+
+### FINDS LAB 학부연구생
 [![FINDSLAB](https://img.shields.io/badge/FINDSLAB-Undergraduate%20Researcher-blue)](https://findslab.github.io/site/members/detail/kjw1-undergrad)
 
 2026.06 – 2026.08
