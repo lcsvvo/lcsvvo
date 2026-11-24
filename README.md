@@ -23,7 +23,7 @@ Undergraduate Student | Medical AI · Trustworthy AI
 ### DAC LAB 학부연구생
 [![DAC LAB](https://img.shields.io/badge/DAC%20LAB-Undergraduate%20Researcher-000080)](https://dac.gachon.ac.kr/)
 
-2026.11 ~
+2026.11 - Present
 
 - 대규모 언어 모델(LLM) 기반 자연어처리 연구
 
