@@ -21,7 +21,7 @@ Undergraduate Student | Medical AI · Trustworthy AI
 ## Experience
 
 ### DAC LAB 학부연구생
-(https://dac.gachon.ac.kr/)
+[![DAC LAB](https://img.shields.io/badge/DAC%20LAB-Undergraduate%20Researcher-000080)](https://dac.gachon.ac.kr/)
 
 2026.11 ~
 
