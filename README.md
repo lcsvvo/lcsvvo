@@ -99,4 +99,4 @@ AI 기반 검색 보조 서비스 연구
 
 ## Contact
 
-- Email: [jiwooo411@gachon.ac.kr](mailto:jiwooo411@gachon.ac.kr)
+- Email: [lcsvvo@gmail.com](mailto:lcsvvo@gmail.com)
