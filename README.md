@@ -27,15 +27,6 @@ Undergraduate Student | Medical AI · Trustworthy AI
 
 - 대규모 언어 모델(LLM) 기반 자연어처리 연구
 
-### FINDS LAB 학부연구생
-[![FINDS LAB](https://img.shields.io/badge/FINDS%20LAB-Undergraduate%20Researcher-blue)](https://findslab.github.io/site/members/detail/kjw1-undergrad)
-
-2026.06 – 2026.08
-
-- 금융 데이터 기반 실증 연구 수행
-- KRX, ECOS, DART 데이터를 활용한 금융 데이터 분석
-- 회귀분석 기반 산업별 금리 민감도 추정
-
 ### BOAZ 27기 시각화, 분석 부문
 
 [![BOAZ](https://img.shields.io/badge/BOAZ-27th%20Visualization%20%26%20Analysis-FFECA6?labelColor=5A5A5A)](https://www.bigdataboaz.com/)
@@ -45,6 +36,16 @@ Undergraduate Student | Medical AI · Trustworthy AI
 - 데이터 시각화와 분석 커리큘럼 병행
 - 딥러닝, 자연어처리, 컴퓨터비전 및 LLM 기반 생성형 AI 학습
 - Tableau, QGIS, Figma를 활용한 시각화 실습
+
+### FINDS LAB 학부연구생
+[![FINDS LAB](https://img.shields.io/badge/FINDS%20LAB-Undergraduate%20Researcher-blue)](https://findslab.github.io/site/members/detail/kjw1-undergrad)
+
+2026.06 – 2026.08
+
+- 금융 데이터 기반 실증 연구 수행
+- KRX, ECOS, DART 데이터를 활용한 금융 데이터 분석
+- 회귀분석 기반 산업별 금리 민감도 추정
+
 
 ### 학생회
 
